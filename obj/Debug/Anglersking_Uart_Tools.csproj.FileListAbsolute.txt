@@ -1,0 +1,10 @@
+C:\Users\pangwanshan\source\repos\Anglersking_Uart_Tools\bin\Debug\Anglersking_Uart_Tools.exe.config
+C:\Users\pangwanshan\source\repos\Anglersking_Uart_Tools\bin\Debug\Anglersking_Uart_Tools.exe
+C:\Users\pangwanshan\source\repos\Anglersking_Uart_Tools\bin\Debug\Anglersking_Uart_Tools.pdb
+C:\Users\pangwanshan\source\repos\Anglersking_Uart_Tools\obj\Debug\Anglersking_Uart_Tools.csproj.AssemblyReference.cache
+C:\Users\pangwanshan\source\repos\Anglersking_Uart_Tools\obj\Debug\Anglersking_Uart_Tools.Form1.resources
+C:\Users\pangwanshan\source\repos\Anglersking_Uart_Tools\obj\Debug\Anglersking_Uart_Tools.Properties.Resources.resources
+C:\Users\pangwanshan\source\repos\Anglersking_Uart_Tools\obj\Debug\Anglersking_Uart_Tools.csproj.GenerateResource.cache
+C:\Users\pangwanshan\source\repos\Anglersking_Uart_Tools\obj\Debug\Anglersking_Uart_Tools.csproj.CoreCompileInputs.cache
+C:\Users\pangwanshan\source\repos\Anglersking_Uart_Tools\obj\Debug\Anglersking_Uart_Tools.exe
+C:\Users\pangwanshan\source\repos\Anglersking_Uart_Tools\obj\Debug\Anglersking_Uart_Tools.pdb
